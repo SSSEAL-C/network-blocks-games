@@ -2,3 +2,4 @@ discord.gg
 discord.com
 discordapp.com
 discordapp.net
+discord.gift
